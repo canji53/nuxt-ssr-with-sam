@@ -4,7 +4,7 @@
 
 SSR × Serverless × AWS で構築する Nuxt.js のアプリケーションの参考リポジトリ。
 Serverless Framework で構成されものが多いため、SAM で構築してみた感じです。
-[ブログにもまとめています。]((https://www.tolog.site/aws/build-nuxt-ssr-with-sam))
+[ブログにもまとめています。](https://www.tolog.site/aws/build-nuxt-ssr-with-sam))
 
 ## 特徴
 
