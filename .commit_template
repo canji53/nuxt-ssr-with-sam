@@ -1,0 +1,30 @@
+
+# ==================== Format ====================
+# :emoji: Subject
+#
+# Commit body...
+
+
+# ==================== Emojis ====================
+# 🎉  :tada: 初めてのコミット（Initial Commit）
+# ✨  :sparkles: 新機能（New Feature）
+# 👍  :+1:  機能改善・機能修正 (Function Update）
+# 🐛  :bug: バグ修正（Bagfix）
+# ♻️   :recycle: リファクタリング（Refactoring）
+# 🗑️  :wastebasket: 削除（Removal）
+# 🔧  :wrench: ツール（tools）
+# ✅  :white_check_mark: テスト（Tests）
+# 🔂  :repeat: CICD
+# 🎨  :art: デザインUI/UX（Accessibility）
+# 🆙  :up: パッケージアップデート（Pacakege or Libraries Update）
+# 📝  :memo:  ドキュメント・コメント（Documentation or Comment）
+# 📰  :newspaper: 記事（post）
+
+
+# ==== Messages ====
+# ADD      新規 ファイル・機能 追加
+# UPDATE   機能修正、既存機能追加（バグではない)
+# FIX      バグ修正
+# REMOVE   削除など
+# UPGRADE  バージョンアップ
+# REFACT   リファクタリング
